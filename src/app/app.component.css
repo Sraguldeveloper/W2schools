@@ -2,7 +2,6 @@ footer{
     width: 100%;
     height:50%;
     background-color: rgb(68, 51, 51);
-    margin-top: 1000px;
 }
 button{
     margin-top: 25px;
@@ -11,13 +10,6 @@ button{
 }
 #button1{
     margin-left: 45px;
-}
-.forum{
-    color: white;
-    position: absolute;
-    top:87px;
-    margin-left: 1150px;
-    font-weight:700;
 }
 img{
     width: 25px;
@@ -40,3 +32,105 @@ img:hover{
     text-align: center;
     margin-left: 90px;
 }
+.heading{
+    font-size: 70px;
+    font-weight:800;
+    color:white;
+}
+.search{
+    background-color: rgb(68, 51, 51);  
+    width:100%;
+    height:500px;
+}
+.inside{
+    text-align: center;
+    position: relative;
+    top:120px;
+}
+.html{
+    background-color: rgb(216, 193, 193);  
+    width:100%;
+    height:500px;
+}
+.heading_html{
+    position:relative;
+    top:150px;
+    left:20px;
+}
+.html_inside{
+    font-size: 80px;
+    font-weight: bolder;
+}
+.css{
+    background-color: rgb(70, 190, 23);  
+    width:100%;
+    height:500px;
+}
+.css_inside{
+    font-size: 80px;
+    font-weight: bolder;
+}
+.js{
+    background-color: rgb(55, 61, 53);  
+    width:100%;
+    height:500px;
+}
+.js_inside{
+    font-size: 80px;
+    font-weight: bolder;
+    color:white;
+}
+.heading_css{
+    position:relative;
+    top:150px;
+    left:20px;
+}
+.heading_css{
+    position:relative;
+    top:150px;
+    left:20px;
+}
+.heading_js{
+    position:relative;
+    top:150px;
+    left:20px;
+}
+.python{
+    background-color: rgb(181, 209, 172);  
+    width:100%;
+    height:500px;
+}
+.python_inside{
+    font-size: 80px;
+    font-weight: bolder;
+    color:black;
+}
+.heading_python{
+    position:relative;
+    top:150px;
+    left:20px;
+}
+.sql{
+    background-color: rgb(111, 141, 101);  
+    width:100%;
+    height:500px;
+}
+.sql_inside{
+    font-size: 80px;
+    font-weight: bolder;
+    color:black;
+}
+.heading_sql{
+    position:relative;
+    top:150px;
+    left:20px;
+}
+#navbarDropdown{
+    margin-top: 10px;
+    font-size: 20px;
+}
+#videos{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
